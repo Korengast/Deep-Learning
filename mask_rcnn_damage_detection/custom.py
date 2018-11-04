@@ -38,7 +38,7 @@ from mrcnn.visualize import display_instances
 import matplotlib.pyplot as plt
 
 # Root directory of the project
-ROOT_DIR = os.path.abspath("../../")
+ROOT_DIR = os.path.abspath("/home/ec2-user/Deep-Learning/mask_rcnn_damage_detection")
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
